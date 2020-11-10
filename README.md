@@ -1,4 +1,16 @@
 Follow Me on Twitter<br/>
+$(document).ready(function(){
+	$('.increase').fontSize({
+		action: "up",
+		elements: "1.[Funbox-1 Walkthrough](https://www.linkedin.com/pulse/funbox-1-walkthrough-vulnhub-shubham-singh/)<br/>",
+		max: 36
+	});
+
+	$('.decrease').fontSize({
+		action: 'down',
+		elements: "#content"
+	});
+})
 1.[Funbox-1 Walkthrough](https://www.linkedin.com/pulse/funbox-1-walkthrough-vulnhub-shubham-singh/)<br/>
 2.[Funbox-2 Walkthrough](https://shubham-singh.medium.com/funbox-2-walkthrough-vulnhub-b1933209acf3 | width=100)<br/>
 3.[Funbox-3 Walkthrough](https://shubham-singh.medium.com/funbox-3-easy-walkthrough-vulnhub-fd13a1648445)<br/>
