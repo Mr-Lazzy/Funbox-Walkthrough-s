@@ -1,5 +1,5 @@
 # Hope you Learn Something New 
- | No. | Walkthrough Name | Operating Syatem Name | Difficulty |
+ | No. | Walkthrough Name | Operating System Name | Difficulty |
  |:----|:-----------------|:----------------------|:-----------|
  |  1. | [**Funbox-1 Walkthrough**](https://www.linkedin.com/pulse/funbox-1-walkthrough-vulnhub-shubham-singh/) | Linux |         |
  |  2. | [**Funbox-2 Walkthrough**](https://shubham-singh.medium.com/funbox-2-walkthrough-vulnhub-b1933209acf3) | Linux |         |   
